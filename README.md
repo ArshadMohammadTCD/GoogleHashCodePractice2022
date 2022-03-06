@@ -1,7 +1,7 @@
 # GoogleHashCodePractice2022
 Google Hash Code 2022 had a practice problem to do with designing a pizza with the most amount of people being satisfied with the decision
 Problem
-Here is a 
+Here is a the question brief for some context. More can be found on the google HashCode website and looking at previous rounds.
 
 You are opening a small pizzeria. In fact, your pizzeria is so small that you decided to offer only one type of pizza. Now you need to decide what ingredients to include (peppers? tomatoes? both?).
 
